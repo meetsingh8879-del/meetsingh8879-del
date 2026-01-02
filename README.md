@@ -1,6 +1,7 @@
 ![logo](https://github.com/meetsingh8879-del/meetsingh8879-del/blob/main/Red%20%26%20Black%20Geometric%20Gamer%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm TH3-M9ST.W9NT3D WAL33D !NSIDE <3</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
+<img align="right" alt="codding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetsingh8879-del&label=Profile%20views&color=0e75b6&style=flat" alt="meetsingh8879-del" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetsingh8879-del" alt="meetsingh8879-del" /></a> </p>
