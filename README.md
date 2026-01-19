@@ -1,4 +1,4 @@
-# Meet Singh ⚡
+# MEET  MR  WALEED ⚡
 
 **`Digital Craftsman | Full-Stack Sorcerer | Code Ka Badshah`**
 
