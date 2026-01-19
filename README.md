@@ -1,13 +1,6 @@
 # MEET SINGH
 
 **bhai code likhta nahi, code khud mere se darta hai**
-
-```python
-while True:
-    print("building shit that will break the internet")
-    deploy_at_3am()
-    sleep_never()
-
 <div align="center"> <img src="https://github.com/meetsingh8879-del.png" width="170" style="border-radius:50%; border:6px solid #ff0000; box-shadow: 0 0 30px #ff0000;"> <h1 style="border:none; color:#ff0000; font-size:50px">⚡</h1> </div>
 <br><br>
 
