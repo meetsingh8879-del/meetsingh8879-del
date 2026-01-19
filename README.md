@@ -4,15 +4,4 @@
 
 I don't push code…  
 I drop updates like rap albums 💿
-
-```js
-const meet = {
-    code: ["JavaScript", "TypeScript", "Python", "Go", "Rust", "Solidity"],
-    frameworks: ["Next.js", "React", "Node.js", "NestJS", "tRPC", "Drizzle"],
-    tools: ["Docker", "Kubernetes", "AWS", "Vercel", "Supabase", "Prisma"],
-    currentStatus: "Cooking something illegal in tech 🍳",
-    ego: "Higher than my AWS bill",
-    sleepSchedule: "Optional",
-    askMeAbout: "How to get 10k stars in 7 days 😈"
-};
 <div align="center"> <img src="https://github.com/meetsingh8879-del.png" width="180" style="border-radius:50%; border: 5px solid #ff0048;" /> <br><br> <img src="https://komarev.com/ghpvc/?username=meetsingh8879-del&label=Profile+Views&color=ff0048&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/meetsingh8879-del?label=Followers&style=for-the-badge&color=ff0048" /> </div><br><h2 align="center">⚡ Stats Jo Dil Jeet Lenge</h2><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetsingh8879-del&theme=dracula&hide_border=true&border_radius=15&fire=ff0048&ring=ff0048&currStreakLabel=ff0048" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meetsingh8879-del&show_icons=true&theme=dracula&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetsingh8879-del&layout=compact&theme=dracula&hide_border=true&border_radius=15" /> </div><h2 align="center">🏆 GitHub Trophies (Sab Jalenge 🔥)</h2> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=meetsingh8879-del&theme=dracula&no-frame=true&row=1&column=7&margin-w=15" /> </div><h2 align="center">🐍 Mera Contribution Saanp (24×7 Active)</h2> <div align="center"> <img src="https://raw.githubusercontent.com/meetsingh8879-del/meetsingh8879-del/output/github-contribution-grid-snake-dark.svg" /> </div><br><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17&height=120&section=footer&fontSize=30"/> </div><p align="center"> <b>Ab follow kar de bhai, warna kal se tera Wi-Fi slow ho jaayega 😈</b><br><br> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9pZ3F2MjN2MjN2MjN2M3F2bjIzdmIyM3Z2bjIyejIyejIyejIyejIyejJ5b2ZmaW5pbmV0ZXI=/Lm1wNDU2eDQ1NGlmZmlmZml0ZXI=/giphy.gif" width="400"/> </p><div align="center"> <a href="https://instagram.com/meetsingh.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://twitter.com/meetsingh8879"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/meetsingh8879"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </div><p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=dracula" /> </p> ```
