@@ -1,56 +1,50 @@
-# MEET  MR  WALEED ⚡
+# Yo, It's Waleed Legend 🌪️
 
-**`Digital Craftsman | Full-Stack Sorcerer | Code Ka Badshah`**
+<img src="https://raw.githubusercontent.com/MAHADI-143/MAHADI-143/main/assets/waleed.gif" width="100%">
 
-<p align="center">
-  <img src="https://github.com/meetsingh8879-del/meetsingh8879-del/blob/main/assets/banner.gif?raw=true" alt="Meet Singh Banner" width="100%"/>
-</p>
-
-<h3 align="center">Main wo developer hun jiske commits mein bhi swag hota hai 😈</h3>
+<h1 align="center">WALEED LEGEND IS HERE 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Mern+Stack+Ka+Baap;Next.js+%7C+React+%7C+Node.js;Building+the+Future+at+3AM;Open+Source+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&lines=WALEED+LEGEND+%F0%9F%94%A5;KING+OF+GITHUB+%F0%9F%91%91;UNSTOPPABLE+%F0%9F%92%80;LEGEND+NEVER+DIES+%E2%9A%A1" alt="Waleed Legend Typing"/>
 </p>
-
-### 🔥 Tech Stack (Jo Main Pel Raha Hun Roz)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2B9CDB?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### ⚡ GitHub Stats (Flex Time)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meetsingh8879-del&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=meetsingh8879-del&theme=dracula&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-bg=true&margin-w=15&margin-h=15&column=8" />
+
+</div>
+
+<h2 align="center">⚡ LEGEND STATS ⚡</h2>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetsingh8879-del&layout=compact&theme=dracula&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" height="195"/>
 </div>
+
+<h2 align="center">💻 TECH ARSENAL 💻</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,php,react,nodejs,express,mongodb,mysql,git,github,linux,bash,vscode,figma&perline=10&theme=dark" />
+</p>
+
+<h2 align="center">🐍 LEGEND SNAKE GAME 🐍</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meetsingh8879-del&theme=dracula&no-frame=true&row=1&column=8" />
+  <img src="https://raw.githubusercontent.com/MAHADI-143/MAHADI-143/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br>
-
-### 📞 Connect With Me (DM Open 24x7)
-
 <p align="center">
-  <a href="https://twitter.com/meetsingh8879"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/meetsingh8879"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:meetsingh8879@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://visitor-badge.laobi.icu/?id=yourusername&label=PROFILE+VIEWS&color=ff0040&style=for-the-badge" />
+  <br><br>
+  <b>LEGEND NEVER SLEEPS 💀 | LEGEND NEVER DIES ⚡</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meetsingh8879-del&label=Profile+Views&color=00D9FF&style=for-the-badge" />
-</p>
+<img src="https://raw.githubusercontent.com/MAHADI-143/MAHADI-143/main/assets/line.gif" width="100%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=ff0040&style=for-the-badge" />
+</div>
